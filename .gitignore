@@ -1,0 +1,5 @@
+__pycache__/
+litho_env/
+*.pyc
+.env
+.DS_Store
